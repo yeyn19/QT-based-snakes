@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>start.png</file>
+        <file>loading.png</file>
+        <file>pause.png</file>
+        <file>save.png</file>
+        <file>restart-fill.png</file>
+        <file>restart-line.png</file>
+        <file>exit.png</file>
+    </qresource>
+</RCC>
